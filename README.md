@@ -1,3 +1,20 @@
+# vue-test-firebase
+
+The scope of this project is to try and integrate the google product that I use in order to build a potential CRM...
+
+I hope this will work;
+
+## Phase 1
+
+- Setup Firebase and dotenv (so github don't get mine apiKey).
+- Try and send a test message using console.log
+- Try and receive a message from the sent message
+
+## Phase 2
+
+- Setup Google Calendar API
+
+
 # vue-test
 
 > trying out firebase and vue
@@ -28,4 +45,3 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue-test-firebase
